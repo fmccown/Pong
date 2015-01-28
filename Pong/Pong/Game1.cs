@@ -38,6 +38,7 @@ namespace Pong
         private float delayTimer = 0;
 
         int x;
+        int y;
 
         public Game1()
         {
