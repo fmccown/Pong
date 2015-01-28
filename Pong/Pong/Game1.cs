@@ -37,9 +37,6 @@ namespace Pong
         // Used to delay between rounds 
         private float delayTimer = 0;
 
-        int x;
-        int y;
-		int z;  // Added on github
 
         public Game1()
         {
