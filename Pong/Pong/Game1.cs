@@ -39,8 +39,7 @@ namespace Pong
 
         int x;
         int y;
-        int z;  // Added on github
-
+		int z;  // Added on github
 
         public Game1()
         {
