@@ -37,6 +37,8 @@ namespace Pong
         // Used to delay between rounds 
         private float delayTimer = 0;
 
+        int x;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
